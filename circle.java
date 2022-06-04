@@ -26,6 +26,8 @@ class Circle
 		radius=z;
 	}
 	
+	void show(){}
+	
 	void print()
 	{
 		System.out.println("Center :(" + centerX + "," + centerY + ") Radius : "+radius);
