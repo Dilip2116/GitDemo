@@ -7,4 +7,4 @@ public class Sum{
 		System.out.println("Sum of two number is :"+c);
 	}
 }
-
+//changed by sanchet
